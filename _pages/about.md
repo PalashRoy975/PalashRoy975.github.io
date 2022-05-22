@@ -13,7 +13,7 @@ Thanks for visiting!
 
 I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) degree in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am currently pursuing my Masters of Science (M.Sc.) degree from the same department. Now, I am also working as a Lecturer at the Department of Computer Science and Engineering in [Green University of Bangladesh (GUB)](https://green.edu.bd/). My research interests include, but are not limited to, Network Function Virtulializations (NFV), Mobile Edge Computing (MEC), Mobile Device Cloud (MDC), Internet of Things (IoT).
 
-**For additional information, please see my [CV](https://sujan-sarker.github.io/cv/) and [publications](https://sujan-sarker.github.io/publications/).**
+**For additional information, please see my [CV](https://PalashRoy975.github.io/cv/) and [publications](https://PalashRoy975.github.io/publications/).**
 
 
 <!-- <a href="https://sujansarker.github.io/publications/"> <img src="https://sujansarker.github.io/images/pubs.png" alt="Publication Venues"
