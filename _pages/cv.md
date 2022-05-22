@@ -32,14 +32,14 @@ Green University of Bangladesh (GUB)<br />
 
 📧 **Email:** palashroy975 [at] gmail [dot] com / palash [at] cse [dot] green [dot] edu [dot] bd  <br /> 
 
-📒 **Website:** [https://palashroy975.github.io/](https://palashroy975.github.io/)) <br />
+📒 **Website:** [https://palashroy975.github.io/](https://palashroy975.github.io/) <br />
 
-You can find me on [Github](https://github.com/sujan-sarker).
+You can find me on [Github](https://github.com/PalashRoy975).
 
 
 **Address:**
 <address>
-84, Lake Circus, Kalabagan, Dhaka. <br /> 
+Flat: 3B, 84, Lake Circus, Kalabagan, Dhaka. <br /> 
 </address> 
 <br /> 
 
