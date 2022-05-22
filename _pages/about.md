@@ -11,7 +11,7 @@ redirect_from:
 Thanks for visiting!
 
 
-I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) degree in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am currently pursuing my Masters of Science (M.Sc.) degree from the same department. Now I am also working as a Lecturer at the Department of Computer Science and Engineering in [Green University of Bangladesh (GUB)](https://green.edu.bd/). My research interests include, but are not limited to, Network Function Virtulializations (NFV), Mobile Edge Computing (MEC), Mobile Device Cloud (MDC), Internet of Things (IoT).
+I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) degree in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am currently pursuing my Masters of Science (M.Sc.) degree from the same department. Now, I am also working as a Lecturer at the Department of Computer Science and Engineering in [Green University of Bangladesh (GUB)](https://green.edu.bd/). My research interests include, but are not limited to, Network Function Virtulializations (NFV), Mobile Edge Computing (MEC), Mobile Device Cloud (MDC), Internet of Things (IoT).
 
 **For additional information, please see my [CV](https://sujan-sarker.github.io/cv/) and [publications](https://sujan-sarker.github.io/publications/).**
 
@@ -22,6 +22,7 @@ I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) degree in Compu
 
 
 ## Recent News
+* 📢 <span style="color:Blue"> [May 2022] </span> - Got Research Grants from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/) for conducting two research works. 
 * 📢 <span style="color:Blue"> [December 2021] </span> - One [long paper](https://ieeexplore.ieee.org/document/9732579) namely **Enhancing Quality of Experience of 5G Users Exploiting Deep Q-Learning** got the Best Paper Award (Bronze) in  [3rd INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/sti-2021/).
 * 📢 <span style="color:Blue"> [November 2021] </span> - Four ***long papers*** got accepted in  [3rd INTERNATIONAL CONFERENCE ON
