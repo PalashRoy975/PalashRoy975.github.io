@@ -24,7 +24,7 @@ author_profile: true
 
 * [University of Dhaka](https://www.du.ac.bd/), Dhaka, Bangladesh.
 * **CGPA:  3.85** <span style ="color:Green"> [*out of 4.00* ] </span>
-* **Thesis title:** [*"User Mobility and Quality-of-Experience Aware Placement of Virtual Network Functions in 5G"*](https://github.com/PalashRoy975/Palash_Roy.github.io/blob/master/files/BSc%20Final%20Defense%20Report_Palash.pdf) 
+* **Thesis title:** [*"User Mobility and Quality-of-Experience Aware Placement of Virtual Network Functions in 5G"*](https://PalashRoy975.github.io/files/BSc_Final_Defense_Report_Palash.pdf) 
 * **Thesis Presentation:** [<span style ="color:Green"> [**Presentation Slide**] </span>](https://PalashRoy975.github.io/files/BSc_Final_Defense_Slide_Palash.pdf) 
 * **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of dhaka, [DR. MD. MAMUN-OR-RASHID ](https://www.cse.du.ac.bd/profile/?faculty=MR), Professor, Department of Computer Science and Engineering, University of Dhaka.
 
