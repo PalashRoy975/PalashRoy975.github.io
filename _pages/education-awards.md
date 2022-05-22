@@ -13,7 +13,7 @@ author_profile: true
 * [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh.
 * **CGPA:  3.96** (Upto 2nd Semester) <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis Title:** [*"Distributed Task Allocation in Mobile Device Cloud Exploiting Federated Learning and Subjective Logic"*](https://github.com/PalashRoy975/Palash_Roy.github.io/blob/master/files/BSc%20Final%20Defense%20Report_Palash.pdf) 
-* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](Palash_Roy.github.io/files/BSc Final Defense Slide Palash.pptx) 
+* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://PalashRoy975.github.io/files/MS_Final_Defense_Palash.pptx) 
 * **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of Dhaka, [DR. MD. MAMUN-OR-RASHID ](https://www.cse.du.ac.bd/profile/?faculty=MR), Professor, Department of Computer Science and Engineering, University of Dhaka.
 * **Committee Members:** [Dr. A. B. M. Alim Al Islam](https://cse.buet.ac.bd/faculty_list/detail/razi), [DR. MD. Mosaddek Khan](https://www.cse.du.ac.bd/profile/?faculty=MK)
 
