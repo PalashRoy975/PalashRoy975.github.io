@@ -32,7 +32,7 @@ Green University of Bangladesh (GUB)<br />
 
 📧 **Email:** palashroy975 [at] gmail [dot] com / palash [at] cse [dot] green [dot] edu [dot] bd  <br /> 
 
-📒 **Website:** [https://sujan-sarker.github.io/](https://sujan-sarker.github.io/) <br />
+📒 **Website:** [https://palashroy975.github.io/](https://palashroy975.github.io/)) <br />
 
 You can find me on [Github](https://github.com/sujan-sarker).
 
