@@ -11,7 +11,7 @@ author_profile: true
 --------------------------------
 
 * [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh.
-* **CGPA:  3.98** <span style ="color:Green"> [*out of 4.00* ] </span>
+* **CGPA:  3.96** (Upto 2nd Semester) <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis Title:** [*"Distributed Task Allocation in Mobile Device Cloud Exploiting Federated Learning and Subjective Logic"*](https://github.com/PalashRoy975/Palash_Roy.github.io/blob/master/files/BSc%20Final%20Defense%20Report_Palash.pdf) 
 * **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](Palash_Roy.github.io/files/BSc Final Defense Slide Palash.pptx) 
 * **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of Dhaka, [DR. MD. MAMUN-OR-RASHID ](https://www.cse.du.ac.bd/profile/?faculty=MR), Professor, Department of Computer Science and Engineering, University of Dhaka.
@@ -39,7 +39,7 @@ author_profile: true
 ---------
 
 * 🏆 <span style="color:Red"> **[Best Paper Award (Bronze)]** </span> in [STI 2021](http://fse.green.edu.bd/sti-2021/).
-* 🏆  <span style="color:Red"> **[Best Poster Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
+* 🏆 <span style="color:Red"> **[Best Poster Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
 * 🏆 ICT Fellowship by ICT Division, Government of the People’s Republic of Bangladesh (2020 - 2021) [*Amount: 3,00,000 BDT*]
 
 
