@@ -22,7 +22,7 @@ I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) degree in Compu
 
 
 ## Recent News
-* 📢 <span style="color:Blue"> [December 2021] </span> - One [long paper] (https://ieeexplore.ieee.org/document/9732579/) namely **Enhancing Quality of Experience of 5G Users Exploiting Deep Q-Learning** got the Best Paper Award (Bronze) in  [3rd INTERNATIONAL CONFERENCE ON
+* 📢 <span style="color:Blue"> [December 2021] </span> - One [long paper] (https://ieeexplore.ieee.org/document/9732579) namely **Enhancing Quality of Experience of 5G Users Exploiting Deep Q-Learning** got the Best Paper Award (Bronze) in  [3rd INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/sti-2021/).
 * 📢 <span style="color:Blue"> [November 2021] </span> - Four ***long papers*** got accepted in  [3rd INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/sti-2021/).
