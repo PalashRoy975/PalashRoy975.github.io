@@ -26,7 +26,7 @@ I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) degree in Compu
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/sti-2021/).
 * 📢 <span style="color:Blue"> [November 2021] </span> - Four ***long papers*** got accepted in  [3rd INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/sti-2021/).
-* 📢 <span style="color:Blue"> [April 2021] </span> - One [journal paper](https://www.sciencedirect.com/science/article/abs/pii/S014036642100164X) namely **Multi-criteria handover mobility management in 5G cellular network got accepted in**  [Computer Communication (Elsevier)](https://www.journals.elsevier.com/computer-communications).
+* 📢 <span style="color:Blue"> [April 2021] </span> - One [journal paper](https://www.sciencedirect.com/science/article/abs/pii/S014036642100164X) namely **Multi-criteria handover mobility management in 5G cellular network** got accepted in [Computer Communication (Elsevier)](https://www.journals.elsevier.com/computer-communications).
 * 📢 <span style="color:Blue"> [December 2021] </span> - Got Fellowhsip Scholarship from [ICT Division, People’s Republic of Bangladesh](http://ims.ictd.gov.bd/)
 for conducting extensive research work of MSc Thesis.
 
