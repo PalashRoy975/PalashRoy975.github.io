@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Palash Roy"
   avatar           : "profile.jpg"
-  bio              : "Utilizing edge infrastructure to enhance the capability of multi-robot system, Designing intelligent robots to efficiently communicate with humans. "
+  bio              : "I am Palash Roy"
   location         : #"127.0.0.1"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -310,5 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-cayman
