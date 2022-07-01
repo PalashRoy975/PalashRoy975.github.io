@@ -40,7 +40,7 @@ author_profile: true
 
 * 🏆 <span style="color:Red"> **[Best Paper Award (Bronze)]** </span> in [STI 2021](http://fse.green.edu.bd/sti-2021/).
 * 🏆 <span style="color:Red"> **[Best Poster Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
-* 🏆 ICT Fellowship by ICT Division, Government of the People’s Republic of Bangladesh (2020 - 2021) [*Amount: 4,80,000 BDT*]
+* 🏆 ICT Fellowship by ICT Division, Government of the People’s Republic of Bangladesh (June, 2020 - December, 2021) [*Amount: 4,80,000 BDT*]
 
 
 
