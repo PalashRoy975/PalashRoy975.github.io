@@ -8,7 +8,7 @@ author_profile: true
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
 ## 2022
 -----------
-* M. Shahjalal, N. Farhana, **Palash Roy**, Md. Abdur Razzaque, [**"A Binary Grey Wolf Optimization Algorithm for Deployment of Virtual Network Functions in 5G Hybrid Cloud"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366422002432?via%3Dihub), Computer Communications (Elsevier) (**IF: 5.047**).
+* M. Shahjalal, N. Farhana, **Palash Roy**, Md. Abdur Razzaque, Kuljeet Kaur, Mohammad Mehedi Hassan, [**"A Binary Grey Wolf Optimization Algorithm for Deployment of Virtual Network Functions in 5G Hybrid Cloud"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366422002432?via%3Dihub), Computer Communications (Elsevier) (**IF: 5.047**).
 ## 2021
 -----------
 * Sabikun Nahar Tanha, Sowpna Akter Mim, **Palash Roy**, Md. Abdur Razzaque, [**"Prediction of Energy Harvesting in Solar Powered Small Cell
