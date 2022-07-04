@@ -12,9 +12,9 @@ author_profile: true
 ## Theory Course
 -----------
 * CSE 101: Discrte Mathematics (Spring 2022)
-* CSE 311: Computer Networking (Fall 2020, Spring 2021, Summer 2021)
+* CSE 311: Computer Networking (Fall 2020, Spring 2021, Summer 2021, Summer 2022)
 * CSE 427: Wireless Networks (Summer 2021)
-* CSE 411: Computer and Cyber Security (Fall 2021)
+* CSE 411: Computer and Cyber Security (Fall 2021, Summer 2022)
 * CSE 437: Information System and Design (Spring 2022)
 
 
@@ -27,5 +27,6 @@ author_profile: true
 * CSE 312: Computer Networking Lab (Spring 2021, Summer 2021, Fall 2021) 
 * CSE 438: Information System and Design Lab (Spring 2021, Fall 2021, Spring 2022)
 * CSE 210: Database System Lab (Summer 2021)
+* CSE 324: Integrated Design Project - I (Summer 2022)
 
 <br/>
