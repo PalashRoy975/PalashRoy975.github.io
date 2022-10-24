@@ -9,7 +9,7 @@ author_profile: true
 
 [**Department of Computer Science and Engineering, Green University at Bangladesh**](https://cse.green.edu.bd/)
 
-## Theory Course
+## Theory Courses
 -----------
 * CSE 101: Discrte Mathematics (Spring 2022, Fall 2022)
 * CSE 311: Computer Networking (Fall 2020, Spring 2021, Summer 2021, Summer 2022, Fall 2022)
