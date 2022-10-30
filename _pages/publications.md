@@ -11,6 +11,10 @@ author_profile: true
 * M. Shahjalal, N. Farhana, **Palash Roy**, Md. Abdur Razzaque, Kuljeet Kaur, Mohammad Mehedi Hassan, [**"A Binary Grey Wolf Optimization Algorithm for Deployment of Virtual Network Functions in 5G Hybrid Cloud"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366422002432?via%3Dihub), Computer Communications (Elsevier) (**IF: 5.047**).
 * Nawmi Nujhat, Fahmida Haque Shanta, Sujan Sarker, **Palash Roy**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan, [**"Task Execution Exploiting Grey Wolf Optimization in Collaborative Edge Computing"**](#), IEEE Transactions on Services Computing <span style ="color:Green"> **[Under second round review]** </span>.
 ## 2021
+* Sudip Chandra Ghoshal, Md Maruf Hossain, Bishozit Chandra Das, **Palash Roy**, Md. Abdur Razzaque, [**"Trade-off Between Latency and Energy for
+Offloading Tasks in Maritime Internet of Things"**](#), 2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI), 17-18 Dec, 2022, Dhaka, Bangladesh.
+* Md. Daiyan Uddin Mozumder, Riaj Hosen, Md. Mamun Hossain, Md. Ahsan Habib, **Palash Roy**, Md. Abdur Razzaque, [**"Multiple Circular Ring-canals on the Starfish
+Routing Backbone in Wireless Sensor Networks"**](#), 2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI), 17-18 Dec, 2022, Dhaka, Bangladesh.
 -----------
 * Sabikun Nahar Tanha, Sowpna Akter Mim, **Palash Roy**, Md. Abdur Razzaque, [**"Prediction of Energy Harvesting in Solar Powered Small Cell
 Networks"**](https://ieeexplore.ieee.org/document/9732578), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka, Bangladesh.
