@@ -9,19 +9,19 @@ author_profile: true
 ## 2022
 -----------
 * M. Shahjalal, N. Farhana, **Palash Roy**, Md. Abdur Razzaque, Kuljeet Kaur, Mohammad Mehedi Hassan, [**"A Binary Grey Wolf Optimization Algorithm for Deployment of Virtual Network Functions in 5G Hybrid Cloud"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366422002432?via%3Dihub), Computer Communications (Elsevier) (**IF: 5.047**).
+* Nawmi Nujhat, Fahmida Haque Shanta, Sujan Sarker, **Palash Roy**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan, [**"Task Execution Exploiting Grey Wolf Optimization in Collaborative Edge Computing"**](#), IEEE Transactions on Services Computing <span style ="color:Green"> **[Under second round review]** </span>.
 ## 2021
 -----------
 * Sabikun Nahar Tanha, Sowpna Akter Mim, **Palash Roy**, Md. Abdur Razzaque, [**"Prediction of Energy Harvesting in Solar Powered Small Cell
-Networks"**](#), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka, Bangladesh.
+Networks"**](https://ieeexplore.ieee.org/document/9732578), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka, Bangladesh.
 * Rushmita H. Chaity, **Palash Roy**, Md. Abdur Razzaque, M. Sadiquzzaman, [**"Enhancing Quality of Experience of 5G Users Exploiting Deep
-Q-Learning"**](#), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka, Bangladesh. **[Best Paper
+Q-Learning"**](https://ieeexplore.ieee.org/document/9732579), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka, Bangladesh. **[Best Paper
 Award]**
 * M. Shahjalal, N. Farhana, **Palash Roy**, Md. Abdur Razzaque, [**"QoE Aware Optimal Deployment of Virtual Network Functions in 5G Hybrid
-Cloud"**](#), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka, Bangladesh.
+Cloud"**](https://ieeexplore.ieee.org/document/9732604), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka, Bangladesh.
 * S.M. Tanvir Rahman, A. K. Sinthia, S. Nabila Akter, **Palash Roy**, Md. Abdur Razzaque, [**"Reputation Aware Fair Worker Selection in Collaborative
-Software Crowdsourcing"**](#), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka,
+Software Crowdsourcing"**](https://ieeexplore.ieee.org/document/9732415), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka,
 Bangladesh.
-* Nawmi Nujhat, Fahmida Haque Shanta, Sujan Sarker, **Palash Roy**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan, [**"Task Execution Exploiting Grey Wolf Optimization in Collaborative Edge Computing"**](#), IEEE Transactions on Services Computing <span style ="color:Green"> **[Under first round review]** </span>.
 * **Palash Roy**, Sujan Sarker, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohmmad Mehedi Hassan, Giancarlo Fortino, [**"Distributed task allocation in Mobile Device Cloud exploiting federated learning and subjective logic"**](https://www.sciencedirect.com/science/article/abs/pii/S1084804521000138), Journal of Systems Architecture, Volume 113, 2021 (**IF: 5.836**).
 * Md. Rajibul Palas, Md. Rakibul Islam, **Palash Roy**, Md. Abdur Razzaque, Ahmad Alsanad, Salman A. AlQahtani, Mohammad Mehedi Hassan, [**"Multi-criteria handover mobility management in 5G cellular network"**](https://www.sciencedirect.com/science/article/abs/pii/S014036642100164X), Computer Communications (Elsevier), Volume 174, 2021 (**IF: 5.047**).
 ## 2020
