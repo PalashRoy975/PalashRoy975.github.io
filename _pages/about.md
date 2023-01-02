@@ -22,6 +22,7 @@ I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) and Masters of 
 
 
 ## Recent News
+* 📢 <span style="color:Blue"> [January 2023] </span> - Got ***"Outstanding Research Award"*** Research Grants under the GUB Faculty Research Publication Award 2022 from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/).
 * 📢 <span style="color:Blue"> [October 2022] </span> - Two ***long papers*** got accepted in  [4th INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2022)](https://fse.green.edu.bd/sti-2022/).
 * 📢 <span style="color:Blue"> [June 2022] </span> - Accepted a journal paper namely **A Binary Grey Wolf Optimization Algorithm for Deployment of Virtual Network Functions in 5G Hybrid Cloud** in [Computer Communication (Elsevier)](https://www.journals.elsevier.com/computer-communications). 
