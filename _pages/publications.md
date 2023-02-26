@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
+## 2023
+-----------
+* Anika Tahsin, **Palash Roy**, Md. Abdur Razzaque, MD. MAMUN-OR-RASHID, MOHAMMAD SIRAJ, SALMAN A. ALQAHTANI, MD. RAFIUL HASSAN, MOHAMMAD MEHEDI HASSAN, [**"Energy ooperation Among Sustainable ase Stations in Multi-Operator Cellular Networks"**](//ww.sciencedirect.com/science/article/abs/pii/S0140366422002432?via%3Dihub), IEEE Access, Volume: 11, 2023 (**IF: 3.367**).
 ## 2022
 -----------
 * M. Shahjalal, N. Farhana, **Palash Roy**, Md. Abdur Razzaque, Kuljeet Kaur, Mohammad Mehedi Hassan, [**"A Binary Grey Wolf Optimization Algorithm for Deployment of Virtual Network Functions in 5G Hybrid Cloud"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366422002432?via%3Dihub), Computer Communications (Elsevier) (**IF: 5.047**).
