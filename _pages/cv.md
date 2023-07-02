@@ -25,7 +25,7 @@ Green University of Bangladesh (GUB)<br />
 <span style ="color:blue"> [October 2020 - Present] </span> 
 <br /><br />
 
-[(Download Full CV)](https://PalashRoy975.github.io/files/Palash_Roy_CV_Updated_22_Jan_2023.pdf) <span style ="color:Green"> [<ins>*Last Updated on January 22, 2023*</ins>] </span>
+[(Download Full CV)](https://PalashRoy975.github.io/files/Palash_Roy_CV_Updated_02_07_2023.pdf) <span style ="color:Green"> [<ins>*Last Updated on 2nd July, 2023*</ins>] </span>
 
 ## Contact Me
 -------------
