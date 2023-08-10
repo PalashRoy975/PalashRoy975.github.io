@@ -22,7 +22,7 @@ I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) and Masters of 
 
 
 ## Recent News
-* 📢 <span style="color:Blue"> [February 2023] </span> - Accepted a journal paper namely **Reputation Aware Optimal Team Formation for Collaborative Software Crowdsourcing in Industry 5.0** in [Journal of King Saud University - Computer and Information Sciences (Elsevier)](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) Journal.
+* 📢 <span style="color:Blue"> [August 2023] </span> - Accepted a journal paper namely **Reputation Aware Optimal Team Formation for Collaborative Software Crowdsourcing in Industry 5.0** in [Journal of King Saud University - Computer and Information Sciences (Elsevier)](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) Journal.
 * 📢 <span style="color:Blue"> [March 2023] </span> -Reached 100 citations for my publications on [Google Scholar](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en).
 *  📢 <span style="color:Blue"> [February 2023] </span> - Accepted a journal paper namely **Energy Cooperation Among Sustainable Base Stations in Multi-Operator Cellular Networks** in [IEEE Access](https://ieeeaccess.ieee.org/) Journal. 
 * 📢 <span style="color:Blue"> [January 2023] </span> - Got ***"Outstanding Research Award"*** under the GUB Faculty Research Publication Award 2022 from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/).
