@@ -29,7 +29,7 @@ Cloud"**](https://ieeexplore.ieee.org/document/9732604), 2021 3rd International 
 * S.M. Tanvir Rahman, A. K. Sinthia, S. Nabila Akter, **Palash Roy**, Md. Abdur Razzaque, [**"Reputation Aware Fair Worker Selection in Collaborative
 Software Crowdsourcing"**](https://ieeexplore.ieee.org/document/9732415), 2021 3rd International Conference on Sustainable Technologies for Industry 4.0 (STI), 18-19 Dec, 2021, Dhaka,
 Bangladesh.
-* **Palash Roy**, Sujan Sarker, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohmmad Mehedi Hassan, Giancarlo Fortino, [**"Distributed task allocation in Mobile Device Cloud exploiting federated learning and subjective logic"**](https://www.sciencedirect.com/science/article/abs/pii/S1084804521000138), Journal of Systems Architecture, Volume 113, 2021 (**IF: 5.836**).
+* **Palash Roy**, Sujan Sarker, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohmmad Mehedi Hassan, Giancarlo Fortino, [**"Distributed task allocation in Mobile Device Cloud exploiting federated learning and subjective logic"**](https://www.sciencedirect.com/science/article/abs/pii/S1383762120302162), Journal of Systems Architecture, Volume 113, 2021 (**IF: 5.836**).
 * Md. Rajibul Palas, Md. Rakibul Islam, **Palash Roy**, Md. Abdur Razzaque, Ahmad Alsanad, Salman A. AlQahtani, Mohammad Mehedi Hassan, [**"Multi-criteria handover mobility management in 5G cellular network"**](https://www.sciencedirect.com/science/article/abs/pii/S014036642100164X), Computer Communications (Elsevier), Volume 174, 2021 (**IF: 5.047**).
 ## 2020
 -----------
