@@ -8,6 +8,7 @@ author_profile: true
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
 ## 2023
 -----------
+* Pranjal Kumar Nandi, Md. Rejaul Islam Reaj, Sujan Sarker, Md. Abdur Razzaque, Md. Mamun-or-Rashid, **Palash Roy** [**"Task offloading to edge cloud balancing utility and cost for energy harvesting Internet of Things"**](https://www.sciencedirect.com/science/article/abs/pii/S1084804523001856?via%3Dihub), Journal of Network and Computer Applications (Elsevier) (**IF: 8.7**)
 * Syeda Nabila Akter, Afsana Kabir Sinthia, **Palash Roy**, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Francesco Pupo, Giancarlo Fortino, [**"Reputation Aware Optimal Team Formation for Collaborative Software Crowdsourcing in Industry 5.0**"](https://www.sciencedirect.com/science/article/pii/S1319157823002641), Journal of King Saud University: Computer and Information Sciences (Elsevier) (**IF: 6.9**)
 * Anika Tahsin, **Palash Roy**, Md. Abdur Razzaque, MD. MAMUN-OR-RASHID, MOHAMMAD SIRAJ, SALMAN A. ALQAHTANI, MD. RAFIUL HASSAN, MOHAMMAD MEHEDI HASSAN, [**"Energy Cooperation Among Sustainable base Stations in Multi-Operator Cellular Networks"**](https://ieeexplore.ieee.org/document/10049573), IEEE Access, Volume: 11, 2023 (**IF: 3.476**).
 ## 2022
