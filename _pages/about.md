@@ -22,6 +22,11 @@ I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) and Masters of 
 
 
 ## Recent News
+* 📢 <span style="color:Blue"> [November 2023] </span> - Got ***"Research Excellence Award"*** under the GUB Faculty Research Publication Award 2023 from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/)
+* 📢 <span style="color:Blue"> [October 2023] </span> - Got Research Grants from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/) for conducting two research works. 
+* 📢 <span style="color:Blue"> [October 2023] </span> -Attended [**10th International Symposium on Networks, Computers, and Communications (ISNCC'23)**](https://www.isncc-conf.org/) in which was held at College of Science & Engineering - Hamad Bin Khalifa University, Doha, the FIFA World Cup 2022 City- Qatar, from October 23 to 26, 2023.
+* 📢 <span style="color:Blue"> [October 2023] </span> - Two papers have been accepted in the [**2023 10th International Conference on Networking, Systems and Security (10th NSysS 2023)**]([https://www.isncc-conf.org/](https://cse.buet.ac.bd/nsyss2023/) and one paper got acceptance in  [**5th INTERNATIONAL CONFERENCE ON
+SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 5.0 (STI 2023)**](https://sti.green.edu.bd/).
 * 📢 <span style="color:Blue"> [August 2023] </span> - Two papers have been accepted in the [**10th International Symposium on Networks, Computers, and Communications (ISNCC'23)**](https://www.isncc-conf.org/).
 * 📢 <span style="color:Blue"> [August 2023] </span> - Accepted a journal paper namely **Reputation Aware Optimal Team Formation for Collaborative Software Crowdsourcing in Industry 5.0** in [Journal of King Saud University - Computer and Information Sciences (Elsevier)](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) Journal.
 * 📢 <span style="color:Blue"> [March 2023] </span> -Reached 100 citations for my publications on [Google Scholar](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en).
