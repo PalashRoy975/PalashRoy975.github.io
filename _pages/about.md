@@ -38,13 +38,13 @@ SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2022)](https://fse.green.edu.bd/s
 * 📢 <span style="color:Blue"> [May 2022] </span> - Got Research Grants from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/) for conducting two research works. 
 * 📢 <span style="color:Blue"> [March 2022] </span> - Successfully defended my Master of Science (MSc) thesis. 
 
-* 📢 <span style="color:Blue"> [December 2021] </span> - One [long paper](https://ieeexplore.ieee.org/document/9732579) namely **Enhancing Quality of Experience of 5G Users Exploiting Deep Q-Learning** got the Best Paper Award (Bronze) in  [3rd INTERNATIONAL CONFERENCE ON
+<!--* 📢 <span style="color:Blue"> [December 2021] </span> - One [long paper](https://ieeexplore.ieee.org/document/9732579) namely **Enhancing Quality of Experience of 5G Users Exploiting Deep Q-Learning** got the Best Paper Award (Bronze) in  [3rd INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/sti-2021/).
 * 📢 <span style="color:Blue"> [November 2021] </span> - Four ***long papers*** got accepted in  [3rd INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/sti-2021/).
 * 📢 <span style="color:Blue"> [April 2021] </span> - One [journal paper](https://www.sciencedirect.com/science/article/abs/pii/S014036642100164X) namely **Multi-criteria handover mobility management in 5G cellular network** got accepted in [Computer Communication (Elsevier)](https://www.journals.elsevier.com/computer-communications).
 * 📢 <span style="color:Blue"> [December 2020] </span> - Got Fellowship Scholarship from [ICT Division, People’s Republic of Bangladesh](http://ims.ictd.gov.bd/)
-for conducting extensive research work on MSc Thesis.
+for conducting extensive research work on MSc Thesis.-->
 
 ----------------------------------------
 
