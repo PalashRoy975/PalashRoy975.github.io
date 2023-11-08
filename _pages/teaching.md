@@ -11,8 +11,9 @@ author_profile: true
 
 ## Theory Courses
 -----------
+* CSE 435: Data Mining (Fall 2023)
 * CSE 101: Discrete Mathematics (Spring 2022, Fall 2022)
-* CSE 311: Computer Networking (Fall 2020, Spring 2021, Summer 2021, Summer 2022, Fall 2022, Spring 2023)
+* CSE 311: Computer Networking (Fall 2020, Spring 2021, Summer 2021, Summer 2022, Fall 2022, Spring 2023, Fall 2023)
 * CSE 427: Wireless Networks (Summer 2021)
 * CSE 411/CSE 323: Computer and Cyber Security (Fall 2021, Summer 2022, Fall 2022, Spring 2023)
 * CSE 437: Information System and Design (Spring 2022)
@@ -28,6 +29,6 @@ author_profile: true
 * CSE 438: Information System and Design Lab (Spring 2021, Fall 2021, Spring 2022)
 * CSE 210: Database System Lab (Summer 2021)
 * CSE 324: Integrated Design Project - I (Summer 2022, Spring 2023)
-* CSE 406: Integrated Design Project - II (Spring 2023)
+* CSE 406: Integrated Design Project - II (Spring 2023, Fall 2023)
 
 <br/>
