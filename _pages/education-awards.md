@@ -38,8 +38,8 @@ author_profile: true
 # Awards
 ---------
 
-* 🏆 <span style="color:Red"> **[Research Excellence Award]** under the GUB Faculty Research Publication Award 2023 from Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh
-* 🏆 <span style="color:Red"> **[Research Outstanding Award]** under the GUB Faculty Research Publication Award 2022 from Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh
+* 🏆 <span style="color:Red"> **[Research Excellence Award]** </span> under the GUB Faculty Research Publication Award 2023 from Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh
+* 🏆 <span style="color:Red"> **[Research Outstanding Award]** </span> under the GUB Faculty Research Publication Award 2022 from Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh
 * 🏆 <span style="color:Red"> **[Best Paper Award (Bronze)]** </span> in [STI 2021](http://fse.green.edu.bd/sti-2021/).
 * 🏆 <span style="color:Red"> **[Best Poster Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
 * 🏆 ICT Fellowship by ICT Division, Government of the People’s Republic of Bangladesh (June, 2020 - December, 2021) [*Amount: 4,80,000 BDT*]
