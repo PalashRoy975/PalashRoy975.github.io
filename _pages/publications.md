@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
+## 2024
+-----------
 ## 2023
 -----------
 * Joy Munshi, Sumaya Sultana, Md. Jahid Hassan, **Palash Roy**, Md. Abdur Razzaque, and Syed Ahsanul Kabir, [**"Delay and Cost Aware Adaptive Deployment and Migration of Service Function Chains in 5G"**]( https://doi.org/10.1145/3629188.3629196), 10th International Conference on Networking, Systems and Security (NSysS 2023), December 21–23, 2023, Khulna, Bangladesh.
