@@ -12,7 +12,7 @@ author_profile: true
 ------------------------
 * **IHABOT: Intelligent Hospital Assistance Robot to Fight Contagion by Reducing Doctor-Patient Interaction**, Funding Agency: Centennial Research Grant, Green University of Bangladesh.
 
-## 💻 Undergraduate Course Projects [2009-2013]
+## 💻 Undergraduate Course Projects [2019-2023]
 ---------------------------------------------
 * Developed traditional multi-player game Ludo (C, C++, OpenGL) 
 * Built digital two player Tic Tac Toe game using logic gates
