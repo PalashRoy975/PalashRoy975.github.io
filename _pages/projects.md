@@ -10,7 +10,7 @@ author_profile: true
 
 ### [2021 - *Current* ]
 ------------------------
-* **IHABOT: Intelligent Hospital Assistance Robot to Fight Contagion by Reducing Doctor-Patient Interaction**, Funding Agency: Centennial Research Grant, University of Dhaka.
+* **IHABOT: Intelligent Hospital Assistance Robot to Fight Contagion by Reducing Doctor-Patient Interaction**, Funding Agency: Centennial Research Grant, Green University of Bangladesh.
 
 ## 💻 Undergraduate Course Projects [2009-2013]
 ---------------------------------------------
