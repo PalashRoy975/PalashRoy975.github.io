@@ -10,6 +10,7 @@ author_profile: true
 -----------
 ## 2023
 -----------
+* Shariar Hossain Emon, MD Lotifur Rahman, Sumiya Siddika Omi, Palash Roy, Md. Abdur Razzaque, K. M. Shadman Wadith, Jargis Ahmed, [**"Energy Consumption Aware Delay Minimization for UAV Enabled Internet of Vehicle"**](), 2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI), 9-10 Dec, 2023, Dhaka, Bangladesh.
 * Joy Munshi, Sumaya Sultana, Md. Jahid Hassan, **Palash Roy**, Md. Abdur Razzaque, and Syed Ahsanul Kabir, [**"Delay and Cost Aware Adaptive Deployment and Migration of Service Function Chains in 5G"**]( https://doi.org/10.1145/3629188.3629196), 10th International Conference on Networking, Systems and Security (NSysS 2023), December 21–23, 2023, Khulna, Bangladesh.
 * Sakhaouth Hossan, Farhan Mahmud, **Palash Roy**, Md. Abdur Razzaque, and Md. Mustafizur Rahman, [**"Energy and Latency-aware Computation
 Load Distribution of Hybrid Split and Federated Learning on IoT Devices"**](https://doi.org/10.1145/3629188.3629201), 10th International Conference on Networking, Systems, and Security (NSysS 2023), December 21–23, 2023, Khulna, Bangladesh.
