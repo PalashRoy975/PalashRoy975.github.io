@@ -8,7 +8,7 @@ author_profile: true
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
 ## 2024
 -----------
-* Shabab Murshed, Abu Shaikh Nibir, Md. Abdur Razzaque, **Palash Roy**, Ahmed Zohier Elhendi, Md. Rafiul Hassan, Mohammad Mehedi Hassan,  [**"Weighted fair energy transfer in a UAV network: A multi-agent deep reinforcement learning approach"**]([https://www.sciencedirect.com/science/article/abs/pii/S0360544223035594](https://www.sciencedirect.com/science/article/abs/pii/S0360544224002986), Energy (Elsevier)(**IF: 9.0**)
+* Shabab Murshed, Abu Shaikh Nibir, Md. Abdur Razzaque, **Palash Roy**, Ahmed Zohier Elhendi, Md. Rafiul Hassan, Mohammad Mehedi Hassan,  [**"Weighted fair energy transfer in a UAV network: A multi-agent deep reinforcement learning approach"**]([https://www.sciencedirect.com/science/article/abs/pii/S0360544224002986]), Energy (Elsevier)(**IF: 9.0**)
 ## 2023
 -----------
 * Abdur Razzak, Md Tariqul Islam, **Palash Roy**, Md Abdur Razzaque, Md Rafiul Hassan, Mohammad Mehedi Hassan, [**"Leveraging Deep Q-Learning to maximize consumer quality of experience in smart grid"**](https://www.sciencedirect.com/science/article/abs/pii/S0360544223035594), Energy (Elsevier)(**IF: 9.0**)
