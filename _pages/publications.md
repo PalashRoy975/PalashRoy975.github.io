@@ -8,6 +8,7 @@ author_profile: true
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
 ## 2024
 -----------
+* Mostakim Jihad, Mashraba Tasnim Rodshi, Abdullah Al Fahad, **Palash Roy**, Md. Abdur Razzaque, Mohammad Mehedi Hassani, [**"Quality of Experience Aware Task Offloading in Digital Twinning Vehicular Edge Computing"**](), 20th Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2024), April 29 – May 1, 2024, 2023,Abu Dhabi, UAE.
 * Shabab Murshed, Abu Shaikh Nibir, Md. Abdur Razzaque, **Palash Roy**, Ahmed Zohier Elhendi, Md. Rafiul Hassan, Mohammad Mehedi Hassan,  [**"Weighted fair energy transfer in a UAV network: A multi-agent deep reinforcement learning approach"**](https://www.sciencedirect.com/science/article/abs/pii/S0360544224002986), Energy (Elsevier)(**IF: 9.0**)
 ## 2023
 -----------
