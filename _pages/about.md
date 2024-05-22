@@ -11,7 +11,7 @@ redirect_from:
 Thanks for visiting!
 
 
-I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) and Masters of Science (M.Sc.) degrees in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh in 2019 and 2021, respectively. Now, I am working as a Lecturer at the Department of Computer Science and Engineering in [Green University of Bangladesh (GUB)](https://green.edu.bd/). My research interests include, but are not limited to, Network Function Virtualization (NFV), Mobile Edge Computing (MEC) and edge Intelligence, Internet of Things (IoT), Optimal Resource Allocation, and Reinforcement Learning.
+I am Palash Roy. I have completed my Bachelor of Science (B.Sc.) and Masters of Science (M.Sc.) degrees in Computer Science and Engineering (CSE) from the Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh in 2019 and 2021, respectively. Now, I am working as a Lecturer at the Department of Computer Science and Engineering in [Green University of Bangladesh (GUB)](https://green.edu.bd/). I have also served as a mentor of IEEE Student Branch, GUB. Previously, I also worked as a chair of IEEE Computer Society Student Branch Chapter, University of Dhaka from September, 2020 to December 2022. My research interests include, but are not limited to, Network Function Virtualization (NFV), Internet of Things (IoT), mobile edge computing, AI-based approaches for network applications design, etc.
 
 **For additional information, please see my [CV](https://PalashRoy975.github.io/cv/) and [publications](https://PalashRoy975.github.io/publications/).**
 
