@@ -34,7 +34,6 @@ SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2021)](http://fse.green.edu.bd/st
 * 📢 <span style="color:Blue"> [December 2020] </span> - Got Fellowship Scholarship from [ICT Division, People’s Republic of Bangladesh](http://ims.ictd.gov.bd/)
 for conducting extensive research work on M.Sc. Thesis. 
 -->
--->
 
 
 ## Recent News
