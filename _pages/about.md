@@ -37,7 +37,7 @@ for conducting extensive research work on M.Sc. Thesis.
 
 
 ## Recent News
-* 📢 <span style="color:Blue"> [Decmber 2024] </span> -Reached **Best Paper Award of the conference** for the paper titled **Energy and Latency-Aware Optimal Task Allocation in Edge Computing Assisted Multi-UAV System** at the **[2024 6th International Conference on Sustainable Technologies for Industry 5.0](https://sti.green.edu.bd/)**, held at The Green University of Bangladesh.
+* 📢 <span style="color:Blue"> [December 2024] </span> -Reached ***Best Paper Award of the conference*** for the paper titled **Energy and Latency-Aware Optimal Task Allocation in Edge Computing Assisted Multi-UAV System** at the **[2024 6th International Conference on Sustainable Technologies for Industry 5.0](https://sti.green.edu.bd/)**, held at The Green University of Bangladesh.
 * 📢 <span style="color:Blue"> [June 2024] </span> -Reached 200 citations for my publications on [Google Scholar](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en).
 * 📢 <span style="color:Blue"> [November 2023] </span> - Got ***"Research Excellence Award"*** under the GUB Faculty Research Publication Award 2023 from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/)
 * 📢 <span style="color:Blue"> [October 2023] </span> - Got two Research Grants from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/) for conducting two research works. 
