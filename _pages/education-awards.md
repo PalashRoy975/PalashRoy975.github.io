@@ -39,7 +39,7 @@ author_profile: true
 ---------
 
 * 🏆 <span style="color:Red"> **[Best Paper Award of the Conference]** </span> in [STI 2024](https://sti.green.edu.bd/).
-* 🏆 <span style="color:Red"> **[Best Student Paper Award]** </span> in [NSySS 2023](https://cse.buet.ac.bd/nsyss2023/).
+* 🏆 <span style="color:Red"> **[Best Student Paper Award]** </span> in [NSySS 2023](https://cse.buet.ac.bd/nsyss2023/bestpapers/).
 * 🏆 <span style="color:Red"> **[Research Excellence Award]** </span> under the GUB Faculty Research Publication Award 2023 from Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh
 * 🏆 <span style="color:Red"> **[Research Outstanding Award]** </span> under the GUB Faculty Research Publication Award 2022 from Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh
 * 🏆 <span style="color:Red"> **[Best Paper Award (Bronze)]** </span> in [STI 2021](http://fse.green.edu.bd/sti-2021/).
