@@ -22,7 +22,8 @@ University of Dhaka (DU) <br />
 **Lecturer** <br />
 Department of Computer Science and Engineering <br />
 University of Dhaka <br />
-<span style ="color:blue"> [February 26, 2025 - Present] </span> 
+<span style ="color:blue"> [February 26, 2025 - Present] </span> <br />
+
 **Lecturer** <br />
 Department of Computer Science and Engineering <br />
 Green University of Bangladesh (GUB)<br />
