@@ -21,8 +21,12 @@ University of Dhaka (DU) <br />
 -------------
 **Lecturer** <br />
 Department of Computer Science and Engineering <br />
+University of Dhaka <br />
+<span style ="color:blue"> [February 26, 2025 - Present] </span> 
+**Lecturer** <br />
+Department of Computer Science and Engineering <br />
 Green University of Bangladesh (GUB)<br />
-<span style ="color:blue"> [October 2020 - Present] </span> 
+<span style ="color:blue"> [October 2020 - February 26, 2025] </span> 
 <br /><br />
 
 [(Download Full CV)](https://PalashRoy975.github.io/files/Palash_Roy_CV_Updated_09_01_2025.pdf) <span style ="color:Green"> [<ins>*Last Updated on 9th January, 2025*</ins>] </span>
@@ -30,7 +34,7 @@ Green University of Bangladesh (GUB)<br />
 ## Contact Me
 -------------
 
-📧 **Email:** palashroy975 [at] gmail [dot] com / palash [at] cse [dot] green [dot] edu [dot] bd  <br /> 
+📧 **Email:** palashroy975 [at] gmail [dot] com / palash [at] cse [dot] du [dot] ac [dot] bd  <br /> 
 
 📒 **Website:** [https://palashroy975.github.io/](https://palashroy975.github.io/) <br />
 
