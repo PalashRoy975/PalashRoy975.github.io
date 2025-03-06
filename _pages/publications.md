@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
+## 2025
+-----------
+* Joy Munshi, Sumaya Sultana, Md. Jahid Hassan, **Palash Roy**, Md. Abdur Razzaque, Abdulhameed Alelaiwi, Md. Zia Uddin, Mohammad Mehedi Hassan, [**"Attention model-driven MADDPG algorithm for delay and cost-aware placement of service function chains in 5G"**](https://www.sciencedirect.com/science/article/pii/S157087052500054X?dgcid=coauthor), Ad Hoc Networks (Elsevier), Volume 173, 2025, 103806. (**IF: 4.8**)
 ## 2024
 -----------
 * 	Shah Jalal, **Palash Roy**, Sudip Chandra Ghoshal, Subrato Basak, Belal Hoshan, Md. Abdur Razzaque and Saiful Azad, [**"Artificial Bee Colony Optimization for Delay and Cost Aware Task Scheduling in Serverless Computing Environment"**](), 2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI), 14-15 Dec, 2024, Dhaka, Bangladesh
