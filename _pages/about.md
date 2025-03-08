@@ -37,6 +37,7 @@ for conducting extensive research work on M.Sc. Thesis.
 
 
 ## Recent News
+* 📢 <span style="color:Blue"> [February 2025] </span> - Joined as a Lecturer at the Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/).
 * 📢 <span style="color:Blue"> [December 2024] </span> -Reached ***Best Paper Award of the conference*** for the paper titled **Energy and Latency-Aware Optimal Task Allocation in Edge Computing Assisted Multi-UAV System** at the **[2024 6th International Conference on Sustainable Technologies for Industry 5.0](https://sti.green.edu.bd/)**, held at The Green University of Bangladesh.
 * 📢 <span style="color:Blue"> [June 2024] </span> -Reached 200 citations for my publications on [Google Scholar](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en).
 * 📢 <span style="color:Blue"> [December 2023] </span> -Reached ***Best Student Paper Award*** for the paper titled **Delay and Cost Aware Adaptive Deployment and Migration of Service Function Chains in 5G** at the **[10th International Conference on Networking, Systems and Security (NSysS 2023)](https://cse.buet.ac.bd/nsyss2023/)**, organized by Bangladesh University of Engineering and Technology (BUET).
