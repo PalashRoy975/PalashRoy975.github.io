@@ -20,6 +20,10 @@ I am Palash Roy. Now I am working as a Lecturer at the Department of Computer Sc
 	title="Publication Venues" width="600" height="200"> </a>
  * 📢 <span style="color:Blue"> [March 2023] </span> -Reached 100 citations for my publications on [Google Scholar](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en).
 <!-- *  📢 <span style="color:Blue"> [February 2023] </span> - Accepted a journal paper namely **Energy Cooperation Among Sustainable Base Stations in Multi-Operator Cellular Networks** in [IEEE Access](https://ieeeaccess.ieee.org/) Journal. 
+* 📢 <span style="color:Blue"> [October 2023] </span> - Two papers have been accepted in the [**2023 10th International Conference on Networking, Systems and Security (10th NSysS 2023)**](https://cse.buet.ac.bd/nsyss2023/) and one paper got acceptance in  [**5th INTERNATIONAL CONFERENCE ON
+SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 5.0 (STI 2023)**](https://sti.green.edu.bd/).
+* 📢 <span style="color:Blue"> [August 2023] </span> - Two papers have been accepted in the [**10th International Symposium on Networks, Computers, and Communications (ISNCC'23)**](https://www.isncc-conf.org/).
+* 📢 <span style="color:Blue"> [August 2023] </span> - Accepted a journal paper namely **Reputation Aware Optimal Team Formation for Collaborative Software Crowdsourcing in Industry 5.0** in [Journal of King Saud University - Computer and Information Sciences (Elsevier)](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) Journal.
 * 📢 <span style="color:Blue"> [January 2023] </span> - Got ***"Outstanding Research Award"*** under the GUB Faculty Research Publication Award 2022 from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/).
 * 📢 <span style="color:Blue"> [October 2022] </span> - Two ***long papers*** got accepted in  [4th INTERNATIONAL CONFERENCE ON
 SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2022)](https://fse.green.edu.bd/sti-2022/).
@@ -44,10 +48,7 @@ for conducting extensive research work on M.Sc. Thesis.
 * 📢 <span style="color:Blue"> [November 2023] </span> - Got ***"Research Excellence Award"*** under the GUB Faculty Research Publication Award 2023 from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/)
 * 📢 <span style="color:Blue"> [October 2023] </span> - Got two Research Grants from [Center for Research Innovation and Transformation (CRIT), Green University of Bangladesh](http://crit.green.edu.bd/) for conducting two research works. 
 * 📢 <span style="color:Blue"> [October 2023] </span> -Attended [**10th International Symposium on Networks, Computers, and Communications (ISNCC'23)**](https://www.isncc-conf.org/), which was held at [**College of Science & Engineering - Hamad Bin Khalifa University**](https://www.hbku.edu.qa/en), Doha, the FIFA World Cup 2022 City- Qatar, from October 23 to 26, 2023.
-* 📢 <span style="color:Blue"> [October 2023] </span> - Two papers have been accepted in the [**2023 10th International Conference on Networking, Systems and Security (10th NSysS 2023)**](https://cse.buet.ac.bd/nsyss2023/) and one paper got acceptance in  [**5th INTERNATIONAL CONFERENCE ON
-SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 5.0 (STI 2023)**](https://sti.green.edu.bd/).
-* 📢 <span style="color:Blue"> [August 2023] </span> - Two papers have been accepted in the [**10th International Symposium on Networks, Computers, and Communications (ISNCC'23)**](https://www.isncc-conf.org/).
-* 📢 <span style="color:Blue"> [August 2023] </span> - Accepted a journal paper namely **Reputation Aware Optimal Team Formation for Collaborative Software Crowdsourcing in Industry 5.0** in [Journal of King Saud University - Computer and Information Sciences (Elsevier)](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences) Journal.
+
 
 
 ----------------------------------------
