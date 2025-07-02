@@ -8,6 +8,7 @@ author_profile: true
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
 ## 2025
 -----------
+* Himel Saha, Md Nur Ahmed, **Palash Roy**, Md. Abdur Razzaque, Nafis Fuad Tanvir, Mohammad Mehedi Hassan, Md Zia Uddin,  [**"Device and data Heterogeneity Aware SplitFed Learning for Digital Twin empowered Industrial Internet of Things"**](https://www.sciencedirect.com/science/article/pii/S1389128625004451?dgcid=coauthor), Computer Networks (Elsevier), Volume 270, 2025, 111478. (**IF: 4.6**)
 * A.K.M. Atiqur Rahman, Muntasir Chowdhury Mridul, **Palash Roy**, Md. Abdur Razzaque, Md. Rajin Saleh, Mohammad Mehedi Hassan, Md Zia Uddin,  [**"A Multi-Head Attention Mechanism Assisted MADDPG Algorithm for Real-Time Data Collection in Internet of Drones"**](https://www.sciencedirect.com/science/article/abs/pii/S2214209625000713?via%3Dihub), Vehicular Communications (Elsevier), Volume 54, 2025, 100944. (**IF: 5.8**)
 * Joy Munshi, Sumaya Sultana, Md. Jahid Hassan, **Palash Roy**, Md. Abdur Razzaque, Abdulhameed Alelaiwi, Md. Zia Uddin, Mohammad Mehedi Hassan, [**"Attention model-driven MADDPG algorithm for delay and cost-aware placement of service function chains in 5G"**](https://www.sciencedirect.com/science/article/pii/S157087052500054X?dgcid=coauthor), Ad Hoc Networks (Elsevier), Volume 173, 2025, 103806. (**IF: 4.4**)
 ## 2024
