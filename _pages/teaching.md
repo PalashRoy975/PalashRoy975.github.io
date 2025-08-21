@@ -6,7 +6,19 @@ author_profile: true
 ---
 
 ## Course Taught
+[**Department of Computer Science and Engineering, University of Dhaka**](https://du.ac.bd/body/CSE)
 
+## Theory Courses
+-----------
+* MATH 435: Multivariable Calculus and Geometry
+
+## Conducting Lab Courses
+-----------
+* CSE 3111: Computer Networking Lab 
+* CSE 3113: Microprocessor and Assembly Language Lab
+* CSE 2213:Data and Telecommunication Lab
+
+  
 [**Department of Computer Science and Engineering, Green University at Bangladesh**](https://cse.green.edu.bd/)
 
 ## Theory Courses
