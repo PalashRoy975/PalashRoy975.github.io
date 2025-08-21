@@ -19,7 +19,7 @@ author_profile: true
 * CSE 2213:Data and Telecommunication Lab
 
   
-[**Department of Computer Science and Engineering, Green University at Bangladesh**](https://cse.green.edu.bd/)
+[**Department of Computer Science and Engineering, Green University at Bangladesh**](https://cse.green.edu.bd/) [October 2020 - January 2025]
 
 ## Theory Courses
 -----------
