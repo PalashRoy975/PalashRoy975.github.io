@@ -10,13 +10,13 @@ author_profile: true
 
 ## Theory Courses
 -----------
-* MATH 435: Multivariable Calculus and Geometry
+* MATH 3105: Multivariable Calculus and Geometry
 
 ## Conducting Lab Courses
 -----------
 * CSE 3111: Computer Networking Lab 
 * CSE 3113: Microprocessor and Assembly Language Lab
-* CSE 2213:Data and Telecommunication Lab
+* CSE 2213: Data and Telecommunication Lab
 
   
 [**Department of Computer Science and Engineering, Green University at Bangladesh**](https://cse.green.edu.bd/) [October 2020 - January 2025]
