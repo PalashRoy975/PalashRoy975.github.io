@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
-## 2025
+## 2026
 -----------
+* Md Abdullah Al Sami, Ibrahim Tanvir, **Palash Roy**, Md Abdur Razzaque, Md Rafiul Hassan, Mohammad Mehedi Hassan,  [**"A Gated Transformer MADDPG Algorithm for Latency and Energy Aware Task Offloading in Digital Twinning Aerial Edge Computing"**](https://www.sciencedirect.com/science/article/abs/pii/S2214209626000070), Vehicular Communications (Elsevier), 2026, 100944 (**IF: 6.5**)
+## 2025
+----------
 * Masum Hossain, Maruf Hossain, Ramjan Ali, **Palash Roy**, Md. Abdur Razzaque and Md. Ahsan Habib, [**"Priority Aware Fair Resource Allocation for Task Offloading in MEC Federations"**](), 2025 7th International Conference on Sustainable Technologies for Industry 5.0 (STI), 11-12 Dec, 2025, Dhaka, Bangladesh
 * Md. Jamil Hasan, Md. Hasibur Rahman, Md Sajjad Hossen, **Palash Roy**, Md. Abdur Razzaque, Giancarlo Fortino, Raffaele Gravina, Mohammad Mehedi Hassan, [**"Priority-Aware Task Offloading for Latency and Energy Minimization in Healthcare IoT Systems,"**](https://ieeexplore.ieee.org/document/11343197), 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), October 5-8, 2025, Vienna, Austria, pp. 4667-4672.
 * Tahsin Ahmmed, Waliyel Hasnat Zaman, Md. Saiful Islam Rimon, **Palash Roy**, Md. Abdur Razzaque, Giancarlo Fortino, Claudio SAVAGLIO, Mohammad Mehedi Hassan, [**"Green Energy and Latency Aware Computation Intensive Machine Learning Task Offloading in Carbon-Neutral Edge Computing,"**](https://ieeexplore.ieee.org/document/11342601), 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), October 5-8, 2025, Vienna, Austria, pp. 7017-7022.
