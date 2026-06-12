@@ -8,6 +8,7 @@ author_profile: true
 [ [**Google Scholar**](https://scholar.google.com/citations?user=6YbqlUkAAAAJ&hl=en&authuser=1) ]
 ## 2026
 -----------
+* Ahaj Mahhin Faiak, Sarower Jahan Rafin, **Palash Roy**, Md. Abdur Razzaque, Md Rafiul Hassan, Mohammad Polash, Mohammad Mehedi Hassan,  [**"LiteKD: A lightweight knowledge-distillation deep learning framework for intrusion detection in IoT networks"**](https://www.sciencedirect.com/science/article/pii/S1389128626004354?dgcid=coauthor), Computer Networks (Elsevier), Volume 286, 2026, 112423 (**IF: 4.6**)
 * Md Abdullah Al Sami, Ibrahim Tanvir, **Palash Roy**, Md Abdur Razzaque, Md Rafiul Hassan, Mohammad Mehedi Hassan,  [**"A Gated Transformer MADDPG Algorithm for Latency and Energy Aware Task Offloading in Digital Twinning Aerial Edge Computing"**](https://www.sciencedirect.com/science/article/abs/pii/S2214209626000070), Vehicular Communications (Elsevier), 2026, 100944 (**IF: 6.5**)
 ## 2025
 ----------
