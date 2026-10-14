@@ -7,7 +7,7 @@ author_profile: true
 
 
 ------------------------
-- <span style="color:Blue"> </span> Member Secretary, Organizing Committee, Member, Technical Program Committee, Member, Publication Committee of [**IEEE 3rd INTERNATIONAL CONFERENCE ON COMPUTING, APPLICATIONS AND SYSTEMS (COMPAS 2026)**](https://www.compasconf.org/) organized by IEEE Computer Society Bangladesh Chapter and hosted by the Department of Computer Science & Engineering, University of Dhaka.
+- <span style="color:Blue"> </span> Member Secretary, Organizing Committee, Member, Technical Program Committee, Member (TPC), Publication Committee of [**IEEE 3rd INTERNATIONAL CONFERENCE ON COMPUTING, APPLICATIONS AND SYSTEMS (COMPAS 2026)**](https://www.compasconf.org/) organized by IEEE Computer Society Bangladesh Chapter and hosted by the Department of Computer Science & Engineering, University of Dhaka.
 - <span style="color:Blue"> </span> Member, Organizing Committee, [**VisionX 2025**](https://visionx.cse.du.ac.bd/) orgranized by department of Computer Science & Engineering, University of Dhaka.
 - <span style="color:Blue"> </span> Co-Chair, Volunteer and Disciplinary Committee, [**2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI 2024)**](https://sti.green.edu.bd/2024/)
 - <span style="color:Blue"> </span> Member, Publicaton Committee, STI 2021, STI 2022, STI 2023, STI 2024, STI 2025
